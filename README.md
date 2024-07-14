@@ -1,1 +1,1 @@
-# POL (Proof of localisation)
+# POL (Proof Of Localisation)
